@@ -1,0 +1,26 @@
+{
+  "name": "localproject",
+  "version": "1.0.0",
+  "description": "exm",
+  "main": "server.js",
+  "scripts": {
+    "test": "test server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdfiroz811315/localproject.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "mirza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdfiroz811315/localproject/issues"
+  },
+  "homepage": "https://github.com/mdfiroz811315/localproject#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
